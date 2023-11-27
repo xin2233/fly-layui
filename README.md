@@ -1,7 +1,10 @@
 # fly-layui
 基于layui，FlyTemplate组件，layui 原官方Fly Template 社区模版  
-## *最新版本：3.0*
 
+## url
+repo url：https://github.com/xin2233/fly-layui.git
+
+## *最新版本：3.0*
 Fly Template 由 layui 官方社区（Fly社区）倾情抽取，页面基于 layui 搭建而成，可很好地作为简约通用型社区的页面支撑。我们希望通过该模板表明我们对 layui 执着的信念、以及对未来持续加强的承诺。
 
 ## 目录说明  
